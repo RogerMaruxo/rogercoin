@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Coin Converter</string>
+    <string name="value">Valor</string>
+    <string name="from">De:</string>
+    <string name="to">Para:</string>
+    <string name="convert">Converter</string>
+    <string name="r_25_90">R$ 25,90</string>
+    <string name="historic">Historico</string>
+    <string name="save">Salvar</string>
+</resources>
